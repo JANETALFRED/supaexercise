@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shared</string>
+    <string name="userna">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvusername">username</string>
+    <string name="tvemail">email</string>
+    <string name="tvfirstname">Firstname</string>
+    <string name="tvlastname">Lastname</string>
+    <string name="password">password</string>
+    <string name="btnsubmit">Submit</string>
+    <string name="btnlogin">Login</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+
+</resources>
